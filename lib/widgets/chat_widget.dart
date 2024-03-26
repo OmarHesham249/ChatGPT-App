@@ -9,7 +9,7 @@ class ChatWidget extends StatelessWidget {
   final int chatIndex;
 
   const ChatWidget({super.key, required this.chatIndex, required this.msg});
-
+//نفسي فيك...........................................................................................
   @override
   Widget build(BuildContext context) {
     return Column(
